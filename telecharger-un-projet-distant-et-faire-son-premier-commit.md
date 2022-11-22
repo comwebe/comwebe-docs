@@ -94,7 +94,7 @@ Modifions maintenant notre `index.html`. Ajoutez un paragraphe qui contient votr
 <p><img src="img/index.html2.png" alt="Config Git - First step" width="100%" />
       </p>
 
-Puis enregister votre travail avec `CTRL + v`
+Puis enregister votre travail avec `CTRL + s`
 
 Félicitations vous venez de faire votre première modification.
 
